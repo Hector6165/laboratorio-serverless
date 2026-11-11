@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.vscode/
+.env
+*.key
+*.pem
+secrets/
+*.log
+*.tmp
+build/

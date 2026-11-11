@@ -1,0 +1,17 @@
+{
+    "nombre": "Hector Mauricio",
+    "apellido": "Fuentes Arauo",
+    "email": "fuenteshector392@gmail.com",
+    "token": "335c2581-3f09-4923-baad-ed6655734c40",
+    "fecha_utc": "2026-11-10T04:04:50.587316+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "registro-serverless-5cb4c87576-kfb8l",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "9154c24ebe9203392d64071aec76d16ceb0f0df1bbf54c1a8009a561112e5fbb"
+}
